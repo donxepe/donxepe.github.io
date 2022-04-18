@@ -29,6 +29,7 @@ github_username:  donxepe
 
 # Build settings
 theme: minima
+page_excerpts: true
 plugins:
   - jekyll-feed
 

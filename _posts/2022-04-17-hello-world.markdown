@@ -3,6 +3,7 @@ layout: post
 title:  "My OpenSuse Journey or Learning Jekyll"
 date:   2022-04-17 19:16:35 -0500
 categories:  jekyll linux opensuse
+excerpt: "I'll recently switched to OpenSuse Tumbleweed (coming from Manjaro/Garuda) and although it took me a few days to start getting comfortable..."
 ---
 
 It's been a while since I blogged, didn't want to go for wordpress blog again so I decided to try out this github sites thing (back then I was studying biotech).
